@@ -4,5 +4,5 @@ Cyptopal JavaScript Plugin
 ### English Document
 Open cryptopal-plugin-eng.docx
 
-### Srpsko Dokument
+### Srpski Dokument
 Otvori cryptopal-plugin-srp.docx
